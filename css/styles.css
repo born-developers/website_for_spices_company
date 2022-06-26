@@ -1,0 +1,420 @@
+/* title section */
+.summarise{
+  background-color:#faf4ff;
+  padding: 2% 1% 2% 1%;
+  }
+#carouselExampleFade{
+  padding: 9% 6% 3% 6%;;
+  background-color: #faf4ff;
+}
+
+.features{
+  text-align: center;
+  padding: 15% 7% 8% 7%;
+  background-color: #faf4ff;
+
+}
+footer{
+  background-color: #142850;
+  /* padding: 3% 3%; */
+  /* text-align: center; */
+}
+
+#brandName{
+  font-family: 'Alfa Slab One', cursive;
+  color: #fff;
+  font-size: 2rem;
+}
+
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background: #faf4ff;
+}
+
+
+.carousel-inner{
+  height: 334px;
+    }
+.cnavbar{
+  background-color: #142850;
+  margin: 0;
+  padding-bottom: 1%;
+}
+.bimage{
+  padding-left: 20px;
+}
+
+
+.fab{
+   padding: 1.5%;
+ }
+ .cfas{
+   padding-bottom: 1rem;
+
+ }
+ .cfas:hover{
+     color: #142850;
+ }
+ .cfab{
+   color: #FFFFFF;
+ }
+ .cfab:hover{
+   color:#000;
+ }
+ .navStyle{
+  color: #FFFFFF !important;
+  text-decoration: none;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 500;
+ }
+
+ img-height-334 img{
+  height: 334px;
+ }
+ .h3{
+  font-size: 1.25rem;
+ }
+
+
+ @media screen and (min-width:321px)
+ {
+    .summariseFont{
+      text-align: center;
+      font-family: 'Prata', serif;
+      line-height: 2;
+      font-size: 21px ;
+      color: red;
+      font-weight: 700;
+    }
+    p {
+      margin-top: -61px;
+      margin-bottom: -2rem;
+    }
+  }
+
+  @media screen and (max-width:320px)
+ {
+   .summariseFont{
+    font-size: 32px;
+     text-align: center;
+     font-family: 'Prata', serif;
+     line-height: 2;
+     color: green;
+     font-weight: 700;
+   }
+   p {
+    margin-top: -61px;
+    margin-bottom: -5rem;
+  }
+ }
+
+ @media screen and (min-width:880px)
+ {
+   .summariseFont{
+     font-size: 17px;
+      text-align: center;
+      font-family: 'Prata', serif;
+      line-height: 2;
+      color: #010a43;
+      font-weight: 700;
+    }
+    p {
+      margin-top: -61px;
+      margin-bottom: -7rem;
+    }
+
+ }
+
+
+  .div1{
+    position: relative;
+    top: 145px;
+    left: 100px
+  }
+  .img2{
+    width: 1161px;
+    height: 416px;
+  }
+  .container9{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding-left: 50px;
+  }
+  .container9 h2{
+    background: #142850;
+    color: #fff;
+    width: 200px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
+  }
+  .container9 h2::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 48px;
+    top: 35px;
+    margin-left: -6px;
+  }
+  .container12{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding-left: 50px;
+    padding-top: 45px;
+  }
+  .container12 h2{
+    background: #142850;
+    color: #fff;
+    width: 345px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
+  }
+  .container12 h2::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 12px;
+    top: 35px;
+  }
+
+
+  /* Testimonials */
+  .container10{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    /* padding-left: 50px;
+    padding-bottom: 20px; */
+    padding: 20px 0px 20px 50px;
+  }
+  .container10 h2{
+    background: #142850;
+    color: #fff;
+    width: 155px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
+  }
+  .container10 h2::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 6px;
+    top: 35px;
+  }
+
+
+  /* The Modal1 spices */
+  .contain{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 35px;
+  }
+  .contain h1{
+    background: #142850;
+    color: #fff;
+    width: 100px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
+  }
+  .contain h1::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 23px;
+    top: 31px;
+    margin-left: -6px;
+  }/* End The Modal1 spices */
+   /* grounded spices */
+  .contain2{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 35px;
+  }
+  .contain2 h1{
+    background: #142850;
+    color: #fff;
+    width: 222px;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 12px;
+    height: 40px;
+  }
+  .contain2 h1::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 16px;
+    top: 31px;
+    margin-left: -6px;
+  }
+
+  /* dry fruits */
+  .contain3{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 35px;
+  }
+  .contain3 h1{
+    background: #142850;
+    color: #fff;
+    width: 128px;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 12px;
+    height: 40px;
+  }
+  .contain3 h1::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 10px;
+    top: 31px;
+  }
+
+  /* rice and food grains */
+  .contain4{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 35px;
+  }
+  .contain4 h1{
+    background: #142850;
+    color: #fff;
+    width: 267px;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 12px;
+    height: 40px;
+  }
+  .contain4 h1::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 7px;
+    top: 31px;
+  }
+
+  /* sesame seed */
+  .contain5{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 35px;
+  }
+  .contain5 h1{
+    background: #142850;
+    color: #fff;
+    width: 192px;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 12px;
+    height: 40px;
+  }
+  .contain5 h1::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 6px;
+    top: 31px;
+  }
+  /* about us */
+  .containAboutus{
+    width:100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 35px;
+  }
+  .containAboutus h1{
+    background: #142850;
+    color: #fff;
+    width: 125px;
+    font-size: 24px;
+    padding: 5px;
+    padding-left: 12px;
+    height: 40px;
+  }
+  .containAboutus h1::after{
+    content: '';
+    border-top: 40px solid #142850;
+    border-right: 40px solid transparent;
+    position: relative;
+    left: 7px;
+    top: 31px;
+  }
+
+
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .container11 {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .container11 img {vertical-align: middle;}
+  
+  .container11 .content11 {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .popup_text {
+    font-family: Arial !important;
+    font-size: 17px !important;
+   }
+   .class3{
+     padding:20px 20px 0 20px;
+     font-size: 18px;
+     font-weight: 400;
+     text-align: justify;
+   }
+   .modal-footer{
+     padding: 4px 0 0 0;
+     height: 0px;
+   }
+   /* about us part */
+   .h1text{
+     font-size: 25px;
+     line-height: 46px;
+     margin: 0;
+     font-weight: 700;
+   }
+   .highlight{
+     color: blue;
+   }
+   .checked {
+    color: orange;
+    font-size: 14px;
+  }
+  .star{
+    margin-top: 5px;
+  }
+   

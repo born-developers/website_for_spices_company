@@ -1,0 +1,16 @@
+hr {border-top: 1px solid #FFFFFF; width:50%;}
+
+a {color: #FFFFFF;}
+
+a:link{text-decoration:none;}
+
+#contact2{
+    letter-spacing:3px;
+}
+
+
+
+#author a{
+  color: #fff;
+  text-decoration: none;
+}
